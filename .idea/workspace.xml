@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6123c0be-62af-482a-971a-eab234f0c0fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BiblioNet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animat/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fancybox/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/Roboto-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/RobotoCondensed-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/RobotoCondensed-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/opensans-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/opensans-light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/opensans-lightitalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/opensans-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nivo-lightbox/nivo-lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl-carousel/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl-carousel/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl-carousel/owl.transitions.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/close@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/loading@2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/next@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themes/default/prev@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bannerbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/businessbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/counterbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scroll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/subcribecebg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tm1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tm4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tst1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fancybox/jquery.fancybox.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/isotop/isotop.function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/isotop/isotope.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-easing/human-user-account-profile-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-easing/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-easing/profile2-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-easing/user-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-easing/user_male2-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/masonry/masonry.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/masonry/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mixitup/jquery.mixitup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nivo-lightbox/nivo-lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wow/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php8.1.0\php.exe" />
+  <component name="ProjectId" id="2QbS6NtDzGYJE5afSJDPizjIqVB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/wamp64/www/portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6123c0be-62af-482a-971a-eab234f0c0fc" name="Changes" comment="" />
+      <created>1685620612058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685620612058</updated>
+      <workItem from="1685620613122" duration="3893000" />
+      <workItem from="1685624564879" duration="5332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
